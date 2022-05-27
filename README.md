@@ -11,6 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... CSS
 - 💬 Ask me about ... My Future Goal
 - 📫 How to reach me: ... gmail; hs.arch3type@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
