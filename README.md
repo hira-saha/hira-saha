@@ -16,5 +16,5 @@ It's Arch3type. A humble programmer focussed on creatures related to web.
 
 [mail]: mailto:hs.arch3type@gmail.com "Send mail to arch3type"
 [Twit]: https://twitter.com/hs_arch3type "arch3type's Twitter"
-[dc]: https://discord.com/invite/fxhmHJXvzM "Ten's Discord Server"
+[dc]: https://discord.com/invite/VaDz5bBQbr "1% Club"
 [T]: https://hira-saha.github.io "arch3type"
