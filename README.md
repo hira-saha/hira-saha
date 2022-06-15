@@ -2,7 +2,7 @@
 
 [![Ask arch3type](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][mail]
 [![Twitter Follow](https://badgen.net/twitter/follow/hs_arch3type)][Twit]
-[![Ten's DC](https://badgen.net/discord/online-members/fxhmHJXvzM)][dc]
+[![Hira Saha's DC](https://badgen.net/discord/online-members/fxhmHJXvzM)][dc]
 
 It's Arch3type. A humble programmer focussed on creatures related to web.
 
