@@ -6,13 +6,13 @@
 [![Ask arch3type](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][mail]
 [![Twitter Follow](https://img.shields.io/twitter/follow/hs_arch3type?logo=twitter&style=social)][twit]
 [![Hira Saha's DC](https://badgen.net/discord/online-members/VaDz5bBQbr)][dc]
-[![GitHub followers](https://img.shields.io/github/followers/hira-saha?label=Follow&style=social)][git]
+[![GitHub followers](https://img.shields.io/github/followers/hira-saha?label=Followers&style=social)][git]
 
 - 🔭 I’m currently working on [basic-practices](https://github.com/hira-saha/basic-practices)
 
 - 🌱 I’m currently learning **Full-Stack Web Developement**
 
-- 👯 I’m now working with [Solvinux](https://github.com/Solvinux/io)
+- 👯 I’m now working with [Solvinux](https://github.com/Solvinux)
 
 <!-- - 📝 I regularly write articles on [https://arch3type.com/blog](https://discord.gg/VaDz5bBQbr) -->
 
@@ -71,7 +71,7 @@
 [twit]: https://twitter.com/hs_arch3type
 [dc]: https://discord.com/invite/VaDz5bBQbr
 [git]: https://hira-saha.github.io/ "hira-saha"
-[cp]: https://codepen.io/
+[cp]: https://codepen.io/hs_arch3type
 [dt]: https://dev.to/
 [li]: https://linkedin.com/in/
 [so]: https://stackoverflow.com/users/19059119/
